@@ -11,6 +11,11 @@
 This also uses the Arduino OTA functionality. So when the ESP8266 successfully connected to your Wifi you will
 be able to use the Arduino IDE over-the-air functionality.
 
+The Wemos D1 Mini will ideally be connected up to a couple of additional components needed as shown here:
+
+![](Schematics/TurtleFeeder_Steckplatine.png)
+
+
 ## Configuration
 
 What you need to configure:
